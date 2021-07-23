@@ -1,2 +1,2 @@
 # prcticas_java
-probar habilidades que he estado practicando
+probar habilidades que he estado aprendiendo
