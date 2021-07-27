@@ -93,7 +93,7 @@ function calcularPerimetroCuadrado(){
 }
 
 function calcularAreaCuadrado(){
-    const input = document.getElementById("InputCuadrado");
+    const input = document.getElementById("InputCuaIdrado");
     const value = input.value;
 
     const area = areaCuadrado(value)
