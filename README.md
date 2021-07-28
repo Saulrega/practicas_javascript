@@ -15,3 +15,10 @@ probar habilidades que he estado aprendiendo
 2. Implementar las fórmulas en java
 3. Crear las funciones 
 4. Integrar java con html
+
+## Proyecto #3: promedio, mediana y moda
+
+1. Definir las formulas
+2. Implementar las fórmulas en java
+3. Crear las funciones 
+4. Integrar java con html
